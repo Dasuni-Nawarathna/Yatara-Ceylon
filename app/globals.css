@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+body { 
+  background-image: url('/sl_bg.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #e2e8f0;
+}
